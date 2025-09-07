@@ -1,2 +1,2 @@
-# Mec-nica-del-tiempo-
-Ciencia 
+ia_local
+arquitectura modular de Ia local distributiva
